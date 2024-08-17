@@ -2,7 +2,7 @@ import { useState } from 'react'
 
 import './App.css'
 import { Navbar } from './Components/Navbar/Navbar'
-import { Header } from './Components/header/header'
+import { Header } from './Components/Header/header'
 import { Main } from './Components/Main/Main'
 import { Section } from './Components/Section/Section'
 import { Border } from './Components/Borders/Border'
