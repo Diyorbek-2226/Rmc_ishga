@@ -1,0 +1,17 @@
+.section_right {
+    background-image: url(../../assets/katta.svg);
+    width: 100%; /* Make the width responsive */
+    max-width: 400px; /* Limit the maximum width to 400px */
+    height: auto; /* Make height responsive */
+    aspect-ratio: 8 / 9; /* Maintain the aspect ratio (width:height = 400:450) */
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+@media (max-width: 460px) {
+    .section_right {
+        max-width: 100%; /* Allow the section to shrink below 400px */
+        height: auto; /* Adjust height automatically to maintain aspect ratio */
+    }
+}

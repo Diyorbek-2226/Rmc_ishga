@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+.swiper-button-next,
+.swiper-button-prev {
+
+    display: none;
+}
+
+#img1 {
+    background-image: url(../../assets/home.png);
+    height: 90vh;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.headers {
+    font-family: "Jost", sans-serif;
+}
+
+.text-header {
+    font-size: 65px;
+    line-height: 55px;
+    margin-top: 300px;
+    color: white;
+}
+
+.btn_Content {
+    padding: 12px 40px;
+    color: white;
+}
+
+#img1 {
+    background-image: url(../../assets/home.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    max-width: 100%;
+}
+
+/* Smaller screens (e.g., mobile devices) */
+
+/* Medium screens (e.g., tablets) */
+@media (min-width: 768px) {
+    #img2 , #img1{
+        height: 85vh;
+        max-width: 100%;
+    }
+}
+@media (min-width: 390px) {
+    #img2 , #img1{
+        height: 100vh;
+        max-width: 100%;
+        width: 100%;
+    }
+}
+
+/* Large screens (e.g., laptops) */
+@media (min-width: 1024px) {
+    #img2 ,#img1{
+        height: 90vh;
+        max-width: 100%;
+    }
+}
+
+/* Extra large screens (e.g., desktops) */
+@media (min-width: 1280px) {
+    #img2 ,#img1{
+        height: 95vh;
+        max-width: 100%;
+    }
+}
+   

@@ -1,0 +1,33 @@
+.box{
+    padding: 90px 30px;
+    border:0.3px solid #EAEAEA;
+    box-shadow: 3px 3px 6px #EAEAEA ;
+}
+#box2{
+    background-image: url(../../assets/image.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+}
+#box3{
+    background-image: url(../../assets/Image2.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+}
+#box4{
+    background-image: url(../../assets/Imag.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+}
+#box6{
+    background-image: url(../../assets/im.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+}

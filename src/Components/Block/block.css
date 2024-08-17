@@ -1,0 +1,77 @@
+.card{
+    border: 0.5px solid red;
+    box-shadow: 3px 3px 6px  #d1cece;
+    box-sizing: border-box;
+    border: none;
+}
+/* block.css */
+
+/* General styles */
+#block {
+  padding: 1rem;
+}
+
+.main-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Card styles */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); /* Default to 1 column on small screens */
+  gap: 1rem;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card h1 {
+  font-size: 1.25rem;
+  padding: 0.5rem;
+}
+
+.card small {
+  display: block;
+  text-align: center;
+}
+
+/* Responsive adjustments */
+@media (min-width: 400px) {
+  .cards {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns for screens 400px and larger */
+  }
+  #block{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+}
+
+@media (min-width: 640px) {
+  .cards {
+    grid-template-columns: repeat(3, 1fr); /* 3 columns for sm screens and larger */
+  }
+  #block{
+    
+  }
+}
+
+@media (min-width: 768px) {
+  .card h1 {
+    font-size: 1.5rem;
+  }
+
+  .card small {
+    font-size: 1rem;
+  }
+}

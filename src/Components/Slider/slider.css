@@ -1,0 +1,37 @@
+.slider_content img{
+    width: 23%;
+    height: 380px;
+    box-shadow: 3px 4px 8px #a5a2a2;
+}
+/* slider.css */
+
+/* General styling for images */
+.slider_content img {
+    width: 100%; /* Default width */
+  }
+  
+  /* Styles for different screen sizes */
+  @media (max-width: 400px) {
+    .slider_content img {
+      width: 50%; /* Two images visible */
+    }
+  }
+  
+  @media (min-width: 401px) and (max-width: 500px) {
+    .slider_content img {
+      width: 100%; /* Three images visible */
+    }
+  }
+  
+  @media (min-width: 501px) and (max-width: 640px) {
+    .slider_content img {
+      width: 50%; /* Four images visible */
+    }
+  }
+  
+  @media (min-width: 641px) {
+    .slider_content img {
+      width: 33%; /* Four images visible (same as above for larger screens) */
+    }
+  }
+ 

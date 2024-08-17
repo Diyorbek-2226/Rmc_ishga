@@ -1,0 +1,99 @@
+{
+    "header": {
+      "services": "Services",
+      "about_us": "About Us",
+      "blog": "Blog",
+      "contacts": "Contacts"
+    },
+    "call_to_action": {
+      "find_ideal_place": "Find the Perfect Place to Live",
+      "open_doors": "Open the Door to a New Future with Us",
+      "learn_more": "Learn More"
+    },
+    "company": {
+      "name": "RMC DE LUXE",
+      "names":" About kompany"
+      
+    },
+    "services": {
+      "rental": "Rental",
+      "buy_sell": "Buy - Sell",
+      "management": "Management",
+      "wide_selection": "Wide Selection of Properties: We offer a variety of rental options <br /> – from apartments and houses to commercial spaces, meeting all needs",
+      "reliable_tenants": "Reliable Tenants: Thorough screening and selection of tenants to ensure stable income and minimize risks"
+    },
+    "investment": {
+      "dubai": "Real Estate Investments in Dubai",
+      "opportunities": "Real estate in Dubai offers excellent opportunities for stable income and capital growth",
+      "full_cycle": "Full Investment Cycle: From market analysis and property selection to investment management and realization.",
+      "expert_help": "Our experts will assist you at every stage of the investment process, ensuring high-quality service and reliability."
+    },
+    "property_management": {
+      "services_included": "What’s Included in Property Management Service",
+      "tenant_screening": "Tenant Screening (Credit History, References)",
+      "maintenance": "Regular Maintenance",
+      "contracts": "Preparation and Signing of Lease Agreements",
+      "repairs": "Organization and Execution of Repairs",
+      "rent_collection": "Rent Collection",
+      "property_condition": "Property Condition Monitoring",
+      "tenant_requests": "Handling Tenant Requests and Complaints",
+      "reliable_tenants": "Selecting Reliable Tenants",
+      "lease_compliance": "Lease Compliance Monitoring"
+    },
+    "features": {
+      "experience_professionalism": "Experience and Professionalism",
+      "transparency_trust": "Transparency and Trust",
+      "high_level_service": "High Level of Service",
+      "individual_approach": "Individual Approach",
+      "comprehensive_service": "Comprehensive Service"
+    },
+    "slider": {
+      "new_buildings": "New Buildings",
+      "view_all": "View All"
+    },
+    "mortgage_calculator": {
+      "property_cost": "Property Cost (currency)",
+      "loan_term": "Term (years)",
+      "down_payment": "Down Payment (currency)",
+      "interest_rate": "Interest Rate (%)",
+      "monthly_payment": "Monthly Payment",
+      "interest_rate_label": "Interest Rate",
+      "loan_amount": "Loan Amount",
+      "last_payment_date": "Last Payment Date",
+      "contact_us": "Have Questions? Contact Us",
+      "full_name": "Full Name *",
+      "phone_number": "Phone Number *",
+      "email": "E-mail",
+      "send": "Send"
+    },
+    "block": {
+      "blog": "Blog",
+      "article1": "Trends and Forecasts for the Real Estate Market in 2024",
+      "article2": "Best Areas for Real Estate Investments",
+      "article3": "Top 10 New Residential Complexes",
+      "all_articles": "All Articles"
+    },
+    "footer": {
+      "services": "Services",
+      "property": "Property",
+      "company": "Company",
+      "other": "Other",
+      "buy": "Buy",
+      "rent": "Rent",
+      "sell": "Sell",
+      "evaluate": "Evaluate",
+      "apartments": "Apartments",
+      "new_buildings": "New Buildings",
+      "houses_land": "Houses and Land",
+      "commercial": "Commercial",
+      "about_us": "About Us",
+      "blog": "Blog",
+      "contacts": "Contacts",
+      "contact_us": "Contact Us",
+      "mortgage_calculator": "Mortgage Calculator",
+      "investment_dubai": "Real Estate Investments in Dubai",
+      "dubai": "Dubai",
+      "all_rights_reserved": "2024 © RMC De Luxe real estate LLC. All rights reserved"
+    }
+  }
+  

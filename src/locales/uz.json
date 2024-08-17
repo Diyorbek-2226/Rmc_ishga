@@ -1,0 +1,97 @@
+{
+    "header": {
+      "services": "Xizmatlar",
+      "about_us": "Biz haqimizda",
+      "blog": "Blog",
+      "contacts": "Aloqalar"
+    },
+    "call_to_action": {
+      "find_ideal_place": "Ideal joyni toping",
+      "open_doors": "Yangi kelajak uchun eshiklarni oching",
+      "learn_more": "Batafsil"
+    },
+    "company": {
+      "name": "RMC DE LUXE"
+    },
+    "services": {
+      "rental": "Ijaraga olish",
+      "buy_sell": "Sotib olish - Sotish",
+      "management": "Boshqarish",
+      "wide_selection": "Keng tanlov: Biz kvartiralardan va uylaridan tijorat maydonlariga qadar <br /> turli ijaraga olish variantlarini taklif etamiz, barcha ehtiyojlarni qondiradi",
+      "reliable_tenants": "Ishonchli ijarachilar: Barqaror daromadni ta'minlash va xavflarni kamaytirish uchun ijarachilarni chuqur tekshirish va tanlash"
+    },
+    "investment": {
+      "dubai": "Dubaydagi ko'chmas mulkka investitsiyalar",
+      "opportunities": "Dubaydagi ko'chmas mulk barqaror daromad olish va kapitalni oshirish uchun ajoyib imkoniyatlar taqdim etadi",
+      "full_cycle": "To'liq investitsiya tsikli: Bozorni tahlil qilishdan va mulk tanlashdan tortib, investitsiyalarni boshqarish va amalga oshirishgacha.",
+      "expert_help": "Bizning ekspertlarimiz sizni investitsiya jarayonining barcha bosqichlarida qo'llab-quvvatlaydi, yuqori sifatli xizmat va ishonchlilikni ta'minlaydi."
+    },
+    "property_management": {
+      "services_included": "Ko'chmas mulkni boshqarish xizmatiga nimalar kiradi",
+      "tenant_screening": "Ijarachilarni tekshirish (kredit tarixi, tavsiyalar)",
+      "maintenance": "Doimiy texnik xizmat",
+      "contracts": "Ijara shartnomalarini tayyorlash va imzolash",
+      "repairs": "Ta'mir ishlarini tashkil etish va bajarish",
+      "rent_collection": "Ijara to'lovlarini yig'ish",
+      "property_condition": "Ko'chmas mulk holatini nazorat qilish",
+      "tenant_requests": "Ijarachilar so'rovlarini va shikoyatlarni ko'rib chiqish",
+      "reliable_tenants": "Ishonchli ijarachilarni tanlash",
+      "lease_compliance": "Ijara shartlariga rioya qilishni nazorat qilish"
+    },
+    "features": {
+      "experience_professionalism": "Tajribalar va professionalizm",
+      "transparency_trust": "Shaffoflik va ishonch",
+      "high_level_service": "Yuqori darajadagi xizmat",
+      "individual_approach": "Shaxsiy yondashuv",
+      "comprehensive_service": "Kompleks xizmat"
+    },
+    "slider": {
+      "new_buildings": "Yangi qurilishlar",
+      "view_all": "Hammasini ko'rish"
+    },
+    "mortgage_calculator": {
+      "property_cost": "Ko'chmas mulk narxi (valyuta)",
+      "loan_term": "Muddat (yil)",
+      "down_payment": "Birinchi to'lov (valyuta)",
+      "interest_rate": "Savaqa (%)",
+      "monthly_payment": "Oylik to'lov",
+      "interest_rate_label": "Savaqa",
+      "loan_amount": "Kredit miqdori",
+      "last_payment_date": "Oxirgi to'lov sanasi",
+      "contact_us": "Savollar bormi? Biz bilan bog'laning",
+      "full_name": "F.I.O *",
+      "phone_number": "Telefon raqami *",
+      "email": "E-mail",
+      "send": "Yuborish"
+    },
+    "block": {
+      "blog": "Blog",
+      "article1": "2024 yilga mo'ljallangan ko'chmas mulk bozorining tendensiyalari va prognozlari",
+      "article2": "Ko'chmas mulk investitsiyalari uchun eng yaxshi hududlar",
+      "article3": "Eng yaxshi 10 yangi turar-joy komplekslari",
+      "all_articles": "Barcha maqolalar"
+    },
+    "footer": {
+      "services": "Xizmatlar",
+      "property": "Ko'chmas mulk",
+      "company": "Kompaniya",
+      "other": "Boshqa",
+      "buy": "Sotib olish",
+      "rent": "Ijaraga olish",
+      "sell": "Sotish",
+      "evaluate": "Baholash",
+      "apartments": "Kvartiralar",
+      "new_buildings": "Yangi qurilishlar",
+      "houses_land": "Uylar va yer",
+      "commercial": "Tijorat",
+      "about_us": "Biz haqimizda",
+      "blog": "Blog",
+      "contacts": "Aloqalar",
+      "contact_us": "Biz bilan bog'laning",
+      "mortgage_calculator": "Ipoteka kalkulyatori",
+      "investment_dubai": "Dubaydagi ko'chmas mulkka investitsiyalar",
+      "dubai": "Dubay",
+      "all_rights_reserved": "2024 © RMC De Luxe real estate LLC. Barcha huquqlar himoyalangan"
+    }
+  }
+  
